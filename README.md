@@ -4,7 +4,7 @@ Red Black Tree Implementation (Template Class) in C++
 The testing framework used to test the Red Black Tree Implementation is Catch2.
 More details available here: https://github.com/catchorg/Catch2
 
-Red Black Tree Method Descriptions:
+# Red Black Tree Method Descriptions:
 
 - default constructor – creates an empty tree whose root is a null pointer.
 - copy constructor – a constructor that creates a deep copy of its RedBlackTree reference parameter.
