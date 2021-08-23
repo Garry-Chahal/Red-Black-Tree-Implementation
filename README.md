@@ -6,8 +6,8 @@ More details available here: https://github.com/catchorg/Catch2
 
 Red Black Tree Method Descriptions:
 
-default constructor – creates an empty tree whose root is a null pointer.
-copy constructor – a constructor that creates a deep copy of its RedBlackTree reference parameter.
+- default constructor – creates an empty tree whose root is a null pointer.
+- copy constructor – a constructor that creates a deep copy of its RedBlackTree reference parameter.
 operator= – overloads the assignment operator for RedBlackTree objects.
 destructor – deletes dynamic memory allocated by the tree.
 insert – if the tree does not contain the method's single template parameter, inserts the parameter and returns true; otherwise does not insert the parameter and returns false.
